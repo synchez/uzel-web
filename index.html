@@ -237,6 +237,11 @@
 .k-card:hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(0,0,0,.08)}
 .k-links a[href^="/"]:first-child{background:#0F0F0F!important;color:#FFF!important}
 .k-links a[href^="/"]:first-child:hover{background:#C92A2A!important}
+
+.k-card{cursor:pointer;transition:all .25s cubic-bezier(.22,1,.36,1)}
+.k-card:hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(0,0,0,.08)}
+.k-links a[href^="/"]:first-child{background:#0F0F0F!important;color:#FFF!important}
+.k-links a[href^="/"]:first-child:hover{background:#C92A2A!important}
 </style>
 </head>
 <body>
@@ -297,6 +302,18 @@ const obs=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting&&e.target.
 const mb=document.querySelector('.mob-menu'),hd=document.querySelector('.header');
 mb.addEventListener('click',()=>{hd.classList.toggle('nav-open');mb.setAttribute('aria-expanded',hd.classList.contains('nav-open'))});
 document.querySelectorAll('.nav a').forEach(a=>a.addEventListener('click',()=>{hd.classList.remove('nav-open')}));
+</script>
+
+<script>
+document.querySelectorAll('.k-card').forEach(card => {
+  const sayfaLink = card.querySelector('a[href="/akademi"], a[href="/junior"]');
+  if (sayfaLink) {
+    card.addEventListener('click', (e) => {
+      if (e.target.closest('a')) return;
+      window.location.href = sayfaLink.href;
+    });
+  }
+});
 </script>
 
 <script>
