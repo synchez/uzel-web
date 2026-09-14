@@ -1,0 +1,24 @@
+# Üzel Eğitim Kurumları
+
+> Turgutlu (Manisa) merkezli eğitim kurumu. İlkokul 1-4. sınıf öğrencilerine Ödev, etüt ve İngilizce desteği; ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlık programları. Üç kurum: Üzel Akademi Merkez, Üzel Akademi Şube, Üzel Junior.
+
+Farklar: iki alanın da bütün dersleri veriliyor — sayısal gruplara Türkçe ve TYT-sosyal (tarih, coğrafya), eşit ağırlık gruplarına fizik, kimya, biyoloji. Haftalık ders saatinde kısıt yok; eksik görülen derse ek saat açılıyor.
+
+İletişim: 0533 273 03 94 (Akademi) · 0530 960 25 73 (Junior) · info@uzelakademi.com
+Adres: Cumhuriyet Mah. Demirel Sok. No:75/A (Merkez), Cumhuriyet Mah. Karaca Sok. No:54/A (Şube), Ergenekon Mah. Vatan Cad. No:8 (Junior) — Turgutlu / Manisa
+
+## Kurum sayfaları
+- [Üzel Akademi](https://www.uzelakademi.com/akademi): Merkez ve Şube'de ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlığı.
+- [Üzel Junior](https://www.uzelakademi.com/junior): 1-4. sınıf öğrencilerine hafta içi her gün ödev, etüt ve İngilizce desteği.
+
+## Veli ve öğrenci rehberleri
+- [TYT ve AYT'de hangi dersten kaç soru var?](https://www.uzelakademi.com/tyt-ayt-soru-dagilimi): TYT 120 soru ve AYT testlerinin ders dağılımı, alanlara göre toplamlar.
+- [Sayısalcı Türkçe ve TYT sosyale çalışmalı mı?](https://www.uzelakademi.com/sayisal-ogrenci-turkce-ve-tyt-sosyal): TYT'nin yarısı Türkçe ve sosyal; sayısal öğrenci için program önerisi.
+- [Eşit ağırlıkçı TYT fene çalışmalı mı?](https://www.uzelakademi.com/esit-agirlik-tyt-fen): 20 soruluk TYT fen bölümünün sıralamaya etkisi.
+- [Sayısal mı, eşit ağırlık mı?](https://www.uzelakademi.com/sayisal-mi-esit-agirlik-mi): Alan seçimi, ders yükü karşılaştırması, alan değiştirme.
+- [Eksik konu nasıl kapanır?](https://www.uzelakademi.com/eksik-konu-nasil-kapanir): Deneme analiziyle eksik tespiti ve kapatma sırası.
+- [LGS'ye hazırlık: 8. sınıf velisi için rehber](https://www.uzelakademi.com/lgs-8-sinif-veli-rehberi): Merkezî sınavın yapısı, yıl planı, tercih mantığı.
+- [Mezun öğrenci YKS planı](https://www.uzelakademi.com/mezun-ogrenci-yks-plani): Mezun senesinde gün düzeni, deneme ritmi, net analizi.
+- [Çocuğum ödevini yapmıyor](https://www.uzelakademi.com/cocugum-odevini-yapmiyor): İlkokul velisi için altı adım.
+- [Çocuğuma kurs seçerken nelere bakmalıyım?](https://www.uzelakademi.com/egitim-ortagi-secerken): Kurum seçiminde sorulacak beş soru.
+- [Türkiye Maarif Modeli nedir?](https://www.uzelakademi.com/egitimde-yapay-zeka-maarif-modeli): Müfredatta ne değişti, hangi sınıflarda uygulanıyor.
