@@ -11,6 +11,9 @@ Adres: Cumhuriyet Mah. Demirel Sok. No:75/A (Merkez), Cumhuriyet Mah. Karaca Sok
 - [Üzel Akademi](https://www.uzelakademi.com/akademi): Merkez ve Şube'de ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlığı.
 - [Üzel Junior](https://www.uzelakademi.com/junior): 1-4. sınıf öğrencilerine hafta içi her gün ödev, etüt ve İngilizce desteği.
 
+## Platform
+- [ÜZELOS](https://www.uzelakademi.com/uzelos): Üzel Eğitim Kurumları'nın yapay zekâ destekli eğitim platformu. Geliştiren: Üzel Akademi İki Kişisel Gelişim Kursu.
+
 ## Veli ve öğrenci rehberleri
 - [TYT ve AYT'de hangi dersten kaç soru var?](https://www.uzelakademi.com/tyt-ayt-soru-dagilimi): TYT 120 soru ve AYT testlerinin ders dağılımı, alanlara göre toplamlar.
 - [Sayısalcı Türkçe ve TYT sosyale çalışmalı mı?](https://www.uzelakademi.com/sayisal-ogrenci-turkce-ve-tyt-sosyal): TYT'nin yarısı Türkçe ve sosyal; sayısal öğrenci için program önerisi.
