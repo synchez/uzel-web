@@ -12,7 +12,7 @@ Adres: Cumhuriyet Mah. Demirel Sok. No:75/A (Merkez), Cumhuriyet Mah. Karaca Sok
 - [Üzel Junior](https://www.uzelakademi.com/junior): 1-4. sınıf öğrencilerine hafta içi her gün ödev, etüt ve İngilizce desteği.
 
 ## Platform
-- [ÜZELOS](https://www.uzelakademi.com/uzelos): Üzel Junior'ın ilkokul öğrencileri, velileri ve öğretmenleri için geliştirdiği yapay zekâ destekli uygulama (geliştirme aşamasında). Geliştiren: Üzel Akademi İki Kişisel Gelişim Kursu (Üzel Junior).
+- [ÜZELOS](https://www.uzelakademi.com/uzelos): Üzel Junior'ın ilkokul öğrencileri, velileri ve öğretmenleri için geliştirdiği yapay zekâ destekli uygulama (geliştirme aşamasında). Geliştiren: Üzel Akademi İki Kişisel Gelişim Kursu (Üzel Akademi Junior, 2024'te kuruldu).
 
 ## Veli ve öğrenci rehberleri
 - [TYT ve AYT'de hangi dersten kaç soru var?](https://www.uzelakademi.com/tyt-ayt-soru-dagilimi): TYT 120 soru ve AYT testlerinin ders dağılımı, alanlara göre toplamlar.
