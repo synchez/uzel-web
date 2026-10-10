@@ -4,14 +4,14 @@
 
 Farklar: iki alanın da bütün dersleri veriliyor — sayısal gruplara Türkçe ve TYT-sosyal (tarih, coğrafya), eşit ağırlık gruplarına fizik, kimya, biyoloji. Haftalık ders saatinde kısıt yok; eksik görülen derse ek saat açılıyor.
 
-## Kurumlar (MEB resmî adlarıyla)
+## Kurumlar
 - Üzel Akademi Merkez — Özel Turgutlu Üzel Akademi Özel Öğretim Kursu — Cumhuriyet Mah. Demirel Sok. No:75/A, Turgutlu / Manisa — 0533 273 03 94
 - Üzel Akademi Şube — Özel Üzel Özel Öğretim Kursu — Cumhuriyet Mah. Karaca Sok. No:54/A, Turgutlu / Manisa — 0236 314 24 34
 - Üzel Akademi Junior — Özel Turgutlu Üzel Akademi İki Kişisel Gelişim Kursu — Ergenekon Mah. Vatan Cad. No:8, Turgutlu / Manisa — 0530 960 25 73
 E-posta: info@uzelakademi.com
 
 ## Kurum sayfaları
-- [Hakkımızda](https://www.uzelakademi.com/hakkimizda): Kurumlarımız, MEB'deki resmî adları, adresleri ve kurucumuz.
+- [Hakkımızda](https://www.uzelakademi.com/hakkimizda): Kurumlarımız, adresleri ve kurucumuz.
 - [Üzel Akademi](https://www.uzelakademi.com/akademi): Merkez ve Şube'de ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlığı.
 - [Üzel Junior](https://www.uzelakademi.com/junior): 1-4. sınıf öğrencilerine hafta içi her gün ödev, etüt ve İngilizce desteği.
 
