@@ -20,7 +20,6 @@ E-posta: info@uzelakademi.com
 
 ## Veli ve öğrenci rehberleri
 - [Turgutlu liseleri taban puanları 2026](https://www.uzelakademi.com/turgutlu-lise-taban-puanlari): LGS ile öğrenci alan Turgutlu liselerinin 2026 taban puanları, MEB'in yüzdelik dilimleri ve son yerleşen öğrencinin netleri.
-- [Turgutlu'da dershane var mı?](https://www.uzelakademi.com/turgutlu-dershane): Dershaneler kapandıktan sonra Turgutlu'da LGS ve YKS hazırlığı için seçenekler; bir kursun MEB izinli olduğu nasıl anlaşılır.
 - [TYT ve AYT'de hangi dersten kaç soru var?](https://www.uzelakademi.com/tyt-ayt-soru-dagilimi): TYT 120 soru ve AYT testlerinin ders dağılımı, alanlara göre toplamlar.
 - [Sayısalcı Türkçe ve TYT sosyale çalışmalı mı?](https://www.uzelakademi.com/sayisal-ogrenci-turkce-ve-tyt-sosyal): TYT'nin yarısı Türkçe ve sosyal; sayısal öğrenci için program önerisi.
 - [Eşit ağırlıkçı TYT fene çalışmalı mı?](https://www.uzelakademi.com/esit-agirlik-tyt-fen): 20 soruluk TYT fen bölümünün sıralamaya etkisi.
