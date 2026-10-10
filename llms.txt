@@ -1,20 +1,26 @@
 # Üzel Eğitim Kurumları
 
-> Turgutlu (Manisa) merkezli eğitim kurumu. İlkokul 1-4. sınıf öğrencilerine Ödev, etüt ve İngilizce desteği; ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlık programları. Üç kurum: Üzel Akademi Merkez, Üzel Akademi Şube, Üzel Junior.
+> Turgutlu (Manisa) merkezli eğitim kurumu. İlkokul 1-4. sınıf öğrencilerine ödev, etüt ve İngilizce desteği; ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlık programları. Üç kurum: Üzel Akademi Merkez, Üzel Akademi Şube, Üzel Junior.
 
 Farklar: iki alanın da bütün dersleri veriliyor — sayısal gruplara Türkçe ve TYT-sosyal (tarih, coğrafya), eşit ağırlık gruplarına fizik, kimya, biyoloji. Haftalık ders saatinde kısıt yok; eksik görülen derse ek saat açılıyor.
 
-İletişim: 0533 273 03 94 (Akademi) · 0530 960 25 73 (Junior) · info@uzelakademi.com
-Adres: Cumhuriyet Mah. Demirel Sok. No:75/A (Merkez), Cumhuriyet Mah. Karaca Sok. No:54/A (Şube), Ergenekon Mah. Vatan Cad. No:8 (Junior) — Turgutlu / Manisa
+## Kurumlar (MEB resmî adlarıyla)
+- Üzel Akademi Merkez — Özel Turgutlu Üzel Akademi Özel Öğretim Kursu — Cumhuriyet Mah. Demirel Sok. No:75/A, Turgutlu / Manisa — 0533 273 03 94
+- Üzel Akademi Şube — Özel Üzel Özel Öğretim Kursu — Cumhuriyet Mah. Karaca Sok. No:54/A, Turgutlu / Manisa — 0236 314 24 34
+- Üzel Akademi Junior — Özel Turgutlu Üzel Akademi İki Kişisel Gelişim Kursu — Ergenekon Mah. Vatan Cad. No:8, Turgutlu / Manisa — 0530 960 25 73
+E-posta: info@uzelakademi.com
 
 ## Kurum sayfaları
+- [Hakkımızda](https://www.uzelakademi.com/hakkimizda): Kurumlarımız, MEB'deki resmî adları, adresleri ve kurucumuz.
 - [Üzel Akademi](https://www.uzelakademi.com/akademi): Merkez ve Şube'de ortaokul, lise ve mezun öğrencilere LGS ve YKS hazırlığı.
 - [Üzel Junior](https://www.uzelakademi.com/junior): 1-4. sınıf öğrencilerine hafta içi her gün ödev, etüt ve İngilizce desteği.
 
 ## Platform
-- [ÜZELOS](https://www.uzelakademi.com/uzelos): Üzel Junior'ın ilkokul öğrencileri, velileri ve öğretmenleri için geliştirdiği yapay zekâ destekli uygulama (geliştirme aşamasında). Geliştiren: Üzel Akademi İki Kişisel Gelişim Kursu (Üzel Akademi Junior, 2024'te kuruldu).
+- [ÜZELOS](https://www.uzelakademi.com/uzelos): Üzel Junior'ın ilkokul öğrencileri, velileri ve öğretmenleri için geliştirdiği yapay zekâ destekli uygulama (geliştirme aşamasında). Geliştiren: Özel Turgutlu Üzel Akademi İki Kişisel Gelişim Kursu (Üzel Akademi Junior, 2024'te kuruldu).
 
 ## Veli ve öğrenci rehberleri
+- [Turgutlu'da ikili eğitim yapan ilkokullar](https://www.uzelakademi.com/turgutlu-ikili-egitim-ilkokullar): MEB kayıtlarına göre ikili ve normal eğitim yapan Turgutlu ilkokulları; sabahçı ve öğlenci çocuğun günü.
+- [Turgutlu liseleri taban puanları 2026](https://www.uzelakademi.com/turgutlu-lise-taban-puanlari): LGS ile öğrenci alan Turgutlu liselerinin 2026 taban puanları, MEB'in yüzdelik dilimleri ve son yerleşen öğrencinin netleri.
 - [TYT ve AYT'de hangi dersten kaç soru var?](https://www.uzelakademi.com/tyt-ayt-soru-dagilimi): TYT 120 soru ve AYT testlerinin ders dağılımı, alanlara göre toplamlar.
 - [Sayısalcı Türkçe ve TYT sosyale çalışmalı mı?](https://www.uzelakademi.com/sayisal-ogrenci-turkce-ve-tyt-sosyal): TYT'nin yarısı Türkçe ve sosyal; sayısal öğrenci için program önerisi.
 - [Eşit ağırlıkçı TYT fene çalışmalı mı?](https://www.uzelakademi.com/esit-agirlik-tyt-fen): 20 soruluk TYT fen bölümünün sıralamaya etkisi.
